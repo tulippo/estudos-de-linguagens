@@ -1,0 +1,23 @@
+C:\Users\felip\estudo de code\estudo de C#\bin\Debug\net6.0\estudo de C#.exe
+C:\Users\felip\estudo de code\estudo de C#\bin\Debug\net6.0\estudo de C#.deps.json
+C:\Users\felip\estudo de code\estudo de C#\bin\Debug\net6.0\estudo de C#.runtimeconfig.json
+C:\Users\felip\estudo de code\estudo de C#\bin\Debug\net6.0\estudo de C#.dll
+C:\Users\felip\estudo de code\estudo de C#\bin\Debug\net6.0\estudo de C#.pdb
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.csproj.AssemblyReference.cache
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.AssemblyInfoInputs.cache
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.AssemblyInfo.cs
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.csproj.CoreCompileInputs.cache
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.dll
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\refint\estudo de C#.dll
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.pdb
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\estudo de C#.genruntimeconfig.cache
+C:\Users\felip\estudo de code\estudo de C#\obj\Debug\net6.0\ref\estudo de C#.dll
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.csproj.AssemblyReference.cache
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.AssemblyInfoInputs.cache
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.AssemblyInfo.cs
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.csproj.CoreCompileInputs.cache
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.dll
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\refint\estudo de C#.dll
+C:\Users\felip\repositorios\estudo de C#\obj\Debug\net6.0\estudo de C#.pdb
